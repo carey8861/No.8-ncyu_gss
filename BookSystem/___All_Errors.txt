@@ -1,0 +1,9 @@
+CorrelationId: 27fad5d6-61d5-4bf9-a012-41f32e4b3845
+UTC DateTime: 01/04/2026 07:01:07
+
+The following files/folders have not been downloaded
+0. BookSystem/BookSystem/obj/Debug/net8.0/BookSystem.csproj.BuildWithSkipAnalyzers
+1. BookSystem/BookSystem/obj/Debug/net8.0/BookSystem.csproj.Up2Date
+2. BookSystem/BookSystem/obj/Debug/net8.0/BookSystem.MvcApplicationPartsAssemblyInfo.cache
+3. BookSystem/BookSystem/obj/Debug/net8.0/staticwebassets.references.upToDateCheck.txt
+4. BookSystem/BookSystem/obj/Debug/net8.0/staticwebassets.removed.txt
